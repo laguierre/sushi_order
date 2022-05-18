@@ -7,8 +7,7 @@ The Tuturial is in the Pedro Massango's Youtube Channel [link](https://www.youtu
 - Transform.rotate
 - For the efect of the sushi dish traslate
 ```C
-  double alignment = math.exp(
-  -math.pow(scrollOffset - index, -4) / sushiList.length);
+  double alignment = math.exp(-math.pow(scrollOffset - index, -4) / sushiList.length);
   bool fromLeft = scrollOffset.round() < index;
 ```
 where "index" is the index for the PageView.builder. "fromLeft" is to detect de direction of the scroll to have symmetric animation in booth direction.
