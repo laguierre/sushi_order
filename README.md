@@ -1,6 +1,6 @@
 # Sushi Challenge Tutorial App Flutter 
 
-Beautiful Tutorial of a Sushi order demo Flutter App Flutter application; using Hero, Transform, PageView, etc. 
+Beautiful Tutorial of a Sushi order demo Flutter App; using Hero, Transform, PageView, etc. 
 The Tuturial is in the Pedro Massango's Youtube Channel [link](https://www.youtube.com/watch?v=jCYXs5nn3_k) and inspired in Dribbble link [link](https://dribbble.com/shots/15304774--Sushi-order-system).
 - PageView.builder.
 - Align
